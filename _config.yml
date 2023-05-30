@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+remote_theme             : "mmistakes/minimal-mistakes@4.20.1"
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "zacdurham.com"
+title_separator          : "-"
+subtitle                 : ""
+#name                     : "Zac Durham"
+description              : "Static site for my cv and bio."
+analytics:
+  provider       : "google-gtag"
+  google:
+    tracking_id    : "G-R5W14YRNJH"
+
+# Site Author
+author:
+  name             : "Zac Durham"
+  #avatar           : "assets/img/avatar.png"
+  bio              : "Infrastructure Manager<br />Cloud Architect"
+  location         : "Greensboro, NC"
+  email            :
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/zacdurham/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zchef2k"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zacdurham@gmail.com"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      related: true

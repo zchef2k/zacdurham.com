@@ -1,0 +1,37 @@
+Zac Work:
+  name             : "Zac Durham"
+  #avatar           : "assets/img/avatar.png"
+  bio              : "Infrastructure Manager<br />Cloud Architect"
+  location         : "Greensboro, NC"
+  email            :
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/zacdurham/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zchef2k"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zacdurham@gmail.com"
+    - label: "About Me"
+      icon: "fas fa-fw fa-link"
+      url: "/about"
+
+Zac Play:
+  name        : "Zac Durham"
+  bio         : "IT Pro by day.<br />Former chef always."
+  avatar      : "/assets/img/about.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zacdurham@gmail.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-blog"
+    #   url: "https://zacdurham.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/zeeceedee/"
+    - label: "CV"
+      icon: "fas fa-fw fa-link"
+      url: "/cv"
