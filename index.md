@@ -8,7 +8,7 @@ header:
   actions:
     - label: "CV"
       url: "/cv"
-    - label: "BIO"
-      url: "/bio"
+    - label: "ABOUT"
+      url: "/about"
 excerpt: "Cloud architect and builder of things.<br />Husband, brother, former chef. Cat whisperer."
 ---

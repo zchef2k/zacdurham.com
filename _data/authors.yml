@@ -1,6 +1,6 @@
 Zac Work:
   name             : "Zac Durham"
-  #avatar           : "assets/img/avatar.png"
+  avatar           : "assets/img/cv.jpg"
   bio              : "Infrastructure Manager<br />Cloud Architect"
   location         : "Greensboro, NC"
   email            :
@@ -21,7 +21,7 @@ Zac Work:
 Zac Play:
   name        : "Zac Durham"
   bio         : "IT Pro by day.<br />Former chef always."
-  avatar      : "/assets/img/about.jpg"
+  avatar      : "assets/img/cv.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
