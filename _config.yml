@@ -23,7 +23,7 @@ description              : "Static site for my cv and bio."
 analytics:
   provider       : "google-gtag"
   google:
-    tracking_id    : "G-R5W14YRNJH"
+    tracking_id    : "G-NMQB5M9FW7"
 
 # Site Author
 author:
