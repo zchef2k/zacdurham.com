@@ -6,21 +6,15 @@ author: Zac Work
 EXPERIENCE
 ---------
 
-**RECENT WORK**
-:   
-
-    * Provided leadership for the selection and purchase of data center compute, storage, and backup solutions in two colocation facilities
-    * Established tenancy, governance, and management within Microsoft Azure to deliver quality cloud-based solutions to multiple business units
-    * Facilitated the construction of an enterprise-grade data gathering and reporting platform within Microsoft Azure 
-    * Implemented Azure Front Door and Palo Alto firewalls to establish a standard, secure, multi-geographic solution for all inbound application traffic
-
+**DIRECTOR OF PLATFORM ENGINEERING, GLEN RAVEN, INC**
+:   SEPTEMBER 2023 – PRESENT
 
 **CLOUD INFRASTRUCTURE MANAGER, GLEN RAVEN, INC**
-:   APRIL 2017 – PRESENT
+:   APRIL 2017 – SEPTEMBER 2023
 
     * Define cloud vision and facilitate adoption across functional areas
     * Architect on-premises and cloud-based solutions to meet business needs
-    * Support application delivery teams through tradtional infrastructure and cloud-native technologies 
+    * Support application delivery teams through traditional infrastructure and cloud-native technologies 
     * Management of a team of data center, storage, and Linux administrators
 
 **LINUX SYSTEM ADMINISTRATOR, GLEN RAVEN, INC**
@@ -30,7 +24,7 @@ EXPERIENCE
     * Manage lifecycle of the Linux environment supporting numerous enterprise applications
     * Maintain infrastructure components including SAN/NAS, LDAP, and DNS
 
-**SYSTEM ANALYST, KAYSER-ROTH CORPORATION**
+**SYSTEMS ANALYST, KAYSER-ROTH CORPORATION**
 :   OCTOBER 2010 – OCTOBER 2013
 
     * Maintain business automation across mainframe, Windows, and Linux environments
@@ -46,6 +40,7 @@ EXPERIENCE
 
 **IT SUPPORT, UNIVERSITY OF NORTH CAROLINA AT GREENSBORO**
 :   NOVEMBER 2008 – OCTOBER 2010, DEPARTMENT OF HOUSING AND RESIDENT LIFE
+
     * Respond to immediate computing and networking needs of department staff
     * Image and network department computers in compliance with university standards
     * Update and maintain department web content
