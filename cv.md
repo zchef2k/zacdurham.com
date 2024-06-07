@@ -32,8 +32,8 @@ author: Zac Work
 **Kayser-Roth Corporation**  
 *October 2010 – October 2013*
 - Develop and maintain business automation across mainframe, Windows, and Linux environments
+- Provide system support for business and manufacturing applications
 - Produce reports for users in multiple business and functional areas
-- Provide system support for Oracle-based back office and plant floor applications
 
 ## EDUCATION
 ### Bachelor of Science, Information Systems and Operations Management  
