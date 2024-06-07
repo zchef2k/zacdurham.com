@@ -3,50 +3,39 @@ type: page
 title: ""
 author: Zac Work
 ---
-EXPERIENCE
----------
+## ABOUT
+**Trusted IT leader with over 12 years experience in infrastructure design and management, enterprise automation, and business system analysis. Focused on initiatives that promote efficiency, scalability, and resilience in increasingly complex environments.**
 
-**DIRECTOR OF PLATFORM ENGINEERING, GLEN RAVEN, INC**
-:   SEPTEMBER 2023 – PRESENT
+## EXPERIENCE
+### DIRECTOR OF PLATFORM ENGINEERING  
+**Glen Raven, Inc**  
+*August 2023 – Present*
+- Design and implement platforms through which business is conducted
+- Optimize hybrid cloud strategy for operability and cost
+- Advance automation, observability, and security initiatives across IT
 
-**CLOUD INFRASTRUCTURE MANAGER, GLEN RAVEN, INC**
-:   APRIL 2017 – SEPTEMBER 2023
+### CLOUD INFRASTRUCTURE MANAGER  
+**Glen Raven, Inc**  
+*April 2017 – August 2023*
+- Manage a team of data center, storage, and Linux professionals
+- Facilitate cloud adoption across multiple business units and use cases
+- Promote DevOps methodologies to better support application delivery teams
 
-    * Define cloud vision and facilitate adoption across functional areas
-    * Architect on-premises and cloud-based solutions to meet business needs
-    * Support application delivery teams through traditional infrastructure and cloud-native technologies 
-    * Management of a team of data center, storage, and Linux administrators
+### LINUX SYSTEMS ADMINISTRATOR  
+**Glen Raven, Inc**  
+*October 2013 – April 2017*
+- Lead lifecycle management of Linux environment supporting critical enterprise applications
+- Deploy and maintain virtualization and storage infrastructure in multiple data centers
+- Assist in regular testing of backup and disaster recovery infrastructure and processes
 
-**LINUX SYSTEM ADMINISTRATOR, GLEN RAVEN, INC**
-:   OCTOBER 2013 – APRIL 2017
+### SYSTEMS ANALYST  
+**Kayser-Roth Corporation**  
+*October 2010 – October 2013*
+- Develop and maintain business automation across mainframe, Windows, and Linux environments
+- Produce reports for users in multiple business and functional areas
+- Provide system support for Oracle-based back office and plant floor applications
 
-    * Deploy and maintain vCenter environments across multiple data centers
-    * Manage lifecycle of the Linux environment supporting numerous enterprise applications
-    * Maintain infrastructure components including SAN/NAS, LDAP, and DNS
-
-**SYSTEMS ANALYST, KAYSER-ROTH CORPORATION**
-:   OCTOBER 2010 – OCTOBER 2013
-
-    * Maintain business automation across mainframe, Windows, and Linux environments
-    * Develop reports for business users in multiple departments
-    * Provide support for Oracle-based back office and plant floor applications
-
-**SPECIALIST, APPLE STORE AT FRIENDLY CENTER**
-:   MARCH 2009 – NOVEMBER 2009
-
-    * Engage customers to match needs with hardware and software solutions
-    * Conduct workshops with customers to demonstrate product features
-    * Process point of sale transactions including repair orders and hardware upgrades
-
-**IT SUPPORT, UNIVERSITY OF NORTH CAROLINA AT GREENSBORO**
-:   NOVEMBER 2008 – OCTOBER 2010, DEPARTMENT OF HOUSING AND RESIDENT LIFE
-
-    * Respond to immediate computing and networking needs of department staff
-    * Image and network department computers in compliance with university standards
-    * Update and maintain department web content
-
-EDUCATION
----------
-
-**BS - INFORMATION SYSTEMS AND OPERATIONS MANAGEMENT**
-:   UNIVERSITY OF NORTH CAROLINA AT GREENSBORO
+## EDUCATION
+### Bachelor of Science, Information Systems and Operations Management  
+**University of North Carolina at Greensboro**  
+*Joseph M. Bryan School of Business and Economics*

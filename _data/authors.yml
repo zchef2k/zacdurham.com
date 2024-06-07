@@ -1,7 +1,7 @@
 Zac Work:
   name             : "Zac Durham"
   avatar           : "assets/img/cv.jpg"
-  bio              : "Infrastructure Manager<br />Cloud Architect"
+  bio              : ""
   location         : "Greensboro, NC"
   email            :
   links:
@@ -14,7 +14,7 @@ Zac Work:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zacdurham@gmail.com"
-    - label: "About Me"
+    - label: "Personal"
       icon: "fas fa-fw fa-link"
       url: "/about"
 
@@ -32,6 +32,6 @@ Zac Play:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/zeeceedee/"
-    - label: "CV"
+    - label: "Professional"
       icon: "fas fa-fw fa-link"
       url: "/cv"

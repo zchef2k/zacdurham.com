@@ -1,9 +1,9 @@
 ---
 type: page
-permalink: /about/
+title: ""
 author: Zac Play
 ---
-
+## BIO
 Sometime in early 2008, I had an epiphany. The culinary career I had built over the previous twelve years had started to wear me down. I was exhausted. I opened two restaurants in three years and had been working eighty-hour work weeks for almost as long. I was newly married but rarely able to spend time with my wife. I missed family gatherings and never took vacations. The industry I had come to love was threatening to steal from me my happiness and my passion for food. I knew I needed to make a change if I was to have any chance at long-term emotional and financial security.
 
 My brothers and I didn't grow up around computers. Personal computing in the 1980's wasn't remotely in our household's budget. Our parents divorced when I was in middle school and both worked hard to make ends meet. It wasn't until the late 90's that I owned my first PC- an Apple PowerBook G3. When I wasn't working in the kitchen, I was likely on that laptop. I was fascinated by it. It was portable, sleek, had a beautiful display and could plug into the blazing fast cable internet of the time. I was making up for lost time, learning everything I could about computers; how they worked, what they were capable of. The Information Age was in full swing and many of my restaurant peers were going back to school and gaining skills needed to stake claim in the dotcom gold rush. My best prospects at the time were in the kitchen, but my exploration of this newfound technology offered a welcome escape from the stresses of the daily restaurant grind. I might have suspected this hobby would prove valuable one day, but I was focused on a different journey.

@@ -29,7 +29,7 @@ analytics:
 author:
   name             : "Zac Durham"
   #avatar           : "assets/img/avatar.png"
-  bio              : "Infrastructure Manager<br />Cloud Architect"
+  bio              : ""
   location         : "Greensboro, NC"
   email            :
   links:
