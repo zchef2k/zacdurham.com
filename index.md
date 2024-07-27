@@ -7,7 +7,7 @@ header:
   overlay_image: assets/img/banner.jpg
   actions:
     - label: "CV"
-      url: "/cv"
+      url: "https://cv.zacdurham.com"
     - label: "ABOUT"
       url: "/about"
 excerpt: "Cloud architect and builder of things.<br />Husband, brother, former chef. Cat whisperer."
