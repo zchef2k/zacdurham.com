@@ -8,7 +8,7 @@ header:
   actions:
     - label: "CV"
       url: "https://cv.zacdurham.com"
-    - label: "ABOUT"
-      url: "/about"
+#    - label: "ABOUT"
+#      url: "/about"
 excerpt: "Cloud architect and builder of things.<br />Husband, brother, former chef. Cat whisperer."
 ---
