@@ -14,9 +14,9 @@ Zac Work:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zacdurham@gmail.com"
-    - label: "Personal"
-      icon: "fas fa-fw fa-link"
-      url: "/about"
+#    - label: "Personal"
+#       icon: "fas fa-fw fa-link"
+#       url: "/about"
 
 Zac Play:
   name        : "Zac Durham"
